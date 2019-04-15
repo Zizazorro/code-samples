@@ -1,6 +1,6 @@
-# CodeSamples
+# Freshheads code samples
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+Dit is een publieke repository voor de code samples voor Freshheads
 
 ## Development server
 
